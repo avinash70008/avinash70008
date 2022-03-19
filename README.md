@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Driven Web developer striving for excellence in assignments involving JavaScript, HTML, CSS, JavaScript. Looking to join an organization that will enable me to apply my analytical capabilities and promote professional growth.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash70008" alt="avinash70008" /></a> </p>
 
@@ -8,6 +8,8 @@
 - 💬 Ask me about **DSA and MERN**
 
 - 📫 How to reach me **avinash.kumar550@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1q4FmpPwp3SGdOSsUl92jaJTsL6D6SOyS/view?usp=sharing](https://drive.google.com/file/d/1q4FmpPwp3SGdOSsUl92jaJTsL6D6SOyS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
